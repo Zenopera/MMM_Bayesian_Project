@@ -15,12 +15,12 @@ Each model incorporates non-linear transformations to account for diminishing re
 ## Repository Contents
 - **Models/**: Python scripts implementing the three Bayesian MMM models.
 - **Report/**: Full project report detailing the methodology, data preprocessing, modeling steps, and results.
-- **Slides/**: Presentation slides summarizing the key findings and conclusions of the project.
+- **Final Presentation/**: Presentation slides summarizing the key findings and conclusions of the project.
 
 ## How to Use
 1. Review the `Report/` folder for a detailed explanation of the methodology.
 2. Explore the `Models/` folder to see the Bayesian MMM implementations.
-3. Use the `Slides/` folder for a concise project summary.
+3. Use the `Final Presentation/` folder for a concise project summary.
 
 ## Authors
 - **Montagna Rosita**
